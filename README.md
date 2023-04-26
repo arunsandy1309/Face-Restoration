@@ -1,1 +1,1 @@
-# Face-Restoration
+# Face Restoration - PyTorch Implementation
