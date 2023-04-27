@@ -1,1 +1,1 @@
-# Face Restoration - PyTorch Implementation
+# SSD: Single Shot MultiBox Object Detector - PyTorch Implementation
